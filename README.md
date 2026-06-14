@@ -24,5 +24,3 @@ When run successfully, the terminal will output the greeting followed by your sp
 > Hello World!
 > OpenCV version: 4.9.0
 
-## AI Usage
-A complete record of prompts and AI tools used to structure this repository and format the documentation can be found in the `AI_Log.md` file.
