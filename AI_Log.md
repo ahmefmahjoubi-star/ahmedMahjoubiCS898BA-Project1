@@ -1,4 +1,4 @@
 # AI Usage Log
 | Date and Time | Prompt | Tool | Response Synopsis | Change |
 | :--- | :--- | :--- | :--- | :--- |
-| 06/14/2026 12:19 AM | "in 1/4 this is what I got what should I do after that" | Gemini | Provided step-by-step instructions to complete the repository setup. | Added hello.py and AI_Log.md via incremental commits. |
+| 06/14/2026 12:20 AM | "Can you give me the Markdown syntax for a 5-column table to use as a tracking log?" | Gemini | Provided the basic formatting structure for a Markdown table. | Used the template to correctly format the layout of `AI_Log.md`. |
