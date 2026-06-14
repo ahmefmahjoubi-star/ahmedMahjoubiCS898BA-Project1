@@ -19,4 +19,11 @@ final_img = cv2.cvtColor(hsv_equalized, cv2.COLOR_HSV2BGR)
 # 5. Save the result
 cv2.imwrite('output_equalized.jpg', final_img)
 
+# 6 Convert the normalized HSV image back to BGR
+final_rgb = cv2.cvtColor(hsv_equalized, cv2.COLOR_HSV2BGR)
+
+# Save the final result
+cv2.imwrite('output_final_normalized.jpg', final_rgb)
+
+print("Final image converted to RGB and saved successfully.")
 print("Histogram equalization complete and saved as 'output_equalized.jpg'.")
