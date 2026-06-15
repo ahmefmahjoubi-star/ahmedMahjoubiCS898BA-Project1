@@ -1,4 +1,3 @@
-pip install numpy scipy
 import cv2
 import numpy as np
 from scipy.stats import mode, skew
