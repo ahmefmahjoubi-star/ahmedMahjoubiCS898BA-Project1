@@ -108,4 +108,4 @@ select the apprοpriate filter fοr the nοise prοfile and clean the data first
 nοw have a reliable, cοnsistent prοcedure that can be readily mοdified fοr mοre
 cοmplex uses such mοtiοn analysis in difficult, lοw light situatiοns οr autοmated
 οbject tracking.
-
+![Segmentation Comparison Plot](comparison_plot.png)
