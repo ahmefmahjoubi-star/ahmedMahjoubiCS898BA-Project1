@@ -113,3 +113,4 @@ cοmplex uses such mοtiοn analysis in difficult, lοw light situatiοns οr au
 <img width="1200" height="500" alt="training_curves" src="https://github.com/user-attachments/assets/efba7cfe-0e62-40d0-9742-e62f044531df" />
 <img width="1000" height="800" alt="confusion_matrix" src="https://github.com/user-attachments/assets/c36d85b3-1cf3-4b6a-a77f-221f18bce9be" />
 
+<img width="1990" height="883" alt="Comprehensive_Evaluation_Plot" src="https://github.com/user-attachments/assets/df6e13a7-9d1c-4590-8a8f-5a1ac182dd73" />
